@@ -1,4 +1,5 @@
-/backend/node_modules
-/backend/pictures
+/node_modules
+/pictures
 /frontend/node_modules
 /backend/videos
+node_modules
